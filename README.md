@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @sachinv26
 - 👀 I’m interested in Tech. knowledge
 - 🌱 I’m currently learning Machine learning and web development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 sachinv26/sachinv26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
