@@ -9,7 +9,7 @@ I'm good at fast learning, task switching and communicating with people, be able
 * 🌍  I'm based in Lucknow,India
 * 🖥️  See my portfolio at [sachin\_v26](http://https://sachinv26.netlify.app/)
 * ✉️  You can contact me at [vermas7008@gmail.com](mailto:vermas7008@gmail.com)
-* 🚀  I'm currently working on [Crypto App](https://github.com/sachinv26/CryptoApp)
+* 🚀  I'm currently working on [Startup Adda](https://github.com/sachinv26/startupadda)
 
 <a href="https://www.twitter.com/sachinv26022002" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/sachinv26022002?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
