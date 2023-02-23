@@ -1,7 +1,5 @@
 Hi 👋 My name is Sachin Verma
 =============================
-
-Flutter Developer
 -----------------
 
 I'm good at fast learning, task switching and communicating with people, be able to quickly add features, diagnose problems, and respond to new requests with fast responses. I don’t get easily frustrated, because I love the feeling of problem-solving. I’m not a workaholic, but a little bit like a perfectionist who makes all jobs to a T.
