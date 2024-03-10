@@ -5,7 +5,7 @@ Hi 👋 My name is Sachin Verma
 I'm good at fast learning, task switching and communicating with people, be able to quickly add features, diagnose problems, and respond to new requests with fast responses. I don’t get easily frustrated, because I love the feeling of problem-solving. I’m not a workaholic, but a little bit like a perfectionist who makes all jobs to a T.
 
 * 🌍  I'm based in Lucknow,India
-* 🖥️  See my portfolio at [sachin\_v26](https://sachinvarma.me/)
+* 🖥️  See my portfolio at [sachin\_v26](https://www.sachinverma.live)
 * ✉️  You can contact me at [vermas7008@gmail.com](mailto:vermas7008@gmail.com)
 
 <a href="https://www.twitter.com/sachinv26022002" target="_blank" rel="noreferrer"><img
