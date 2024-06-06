@@ -2,7 +2,8 @@ Hi 👋 My name is Sachin Verma
 =============================
 -----------------
 
-I'm good at fast learning, task switching and communicating with people, be able to quickly add features, diagnose problems, and respond to new requests with fast responses. I don’t get easily frustrated, because I love the feeling of problem-solving. I’m not a workaholic, but a little bit like a perfectionist who makes all jobs to a T.
+I'm skilled at quickly learning new concepts, switching between tasks, and communicating effectively with others. I can rapidly add features, diagnose issues, and respond promptly to new requests. I rarely get frustrated because I enjoy problem-solving. While I'm not a workaholic, I do strive for perfection in all my work.
+
 
 * 🌍  I'm based in Lucknow,India
 * 🖥️  See my portfolio at [sachin\_v26](https://www.sachinverma.live)
